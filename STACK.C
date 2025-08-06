@@ -36,6 +36,7 @@ int main() {
     pop();
     peek();
     pop();
-    pop(); // Will show stack empty
+    pop(); 
     return 0;
 }
+
