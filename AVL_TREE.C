@@ -122,3 +122,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Inorder: 10 20 25 30 40 
+Search 25: Found
