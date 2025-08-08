@@ -18,3 +18,11 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+10 20 30 40 50
+Number 10 is Even
+Number 20 is Even
+Number 30 is Even
+Number 40 is Even
+Number 50 is Even
