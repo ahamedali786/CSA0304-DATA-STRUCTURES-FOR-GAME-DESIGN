@@ -40,3 +40,12 @@ int main() {
     return 0;
 }
 
+OUTPUT:
+Pushed: 10
+Pushed: 20
+Top: 20
+Popped: 20
+Top: 10
+Popped: 10
+Stack Empty
+
