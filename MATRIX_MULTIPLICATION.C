@@ -37,3 +37,13 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter elements of 3x3 Matrix A:
+1 2 3 4 5 6 7 8 9
+Enter elements of 3x3 Matrix B:
+9 8 7 6 5 4 3 2 1
+Resultant Matrix C (A x B):
+30 24 18
+84 69 54
+138 114 90
