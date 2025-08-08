@@ -29,3 +29,6 @@ int main() {
     for (int i = 0; i < n; i++) printf("%d ", a[i]);
     return 0;
 }
+
+OUTPUT:
+1 2 4 6 8 
