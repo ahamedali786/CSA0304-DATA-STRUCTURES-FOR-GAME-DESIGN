@@ -51,3 +51,18 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+1.Insert  2.Delete  3.Display  4.Exit
+Enter your choice: 1
+Enter valzue: 20
+Enter position: 1
+Value inserted.
+
+1.Insert  2.Delete  3.Display  4.Exit
+Enter your choice: 2
+Enter position to delete: 1
+Value deleted.
+
+1.Insert  2.Delete  3.Display  4.Exit
+Enter your choice: 4
