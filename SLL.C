@@ -67,3 +67,6 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+SLL: 10 20 30 
