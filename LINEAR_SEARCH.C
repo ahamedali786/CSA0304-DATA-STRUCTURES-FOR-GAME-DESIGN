@@ -28,3 +28,10 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter number of elements: 5
+Enter 5 elements:
+10 5 4 6 3  
+Enter number to search: 2
+2 not found in the array.
