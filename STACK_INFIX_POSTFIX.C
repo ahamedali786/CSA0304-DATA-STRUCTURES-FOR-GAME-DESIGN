@@ -38,3 +38,7 @@ int main() {
     infixToPostfix(infix);
     return 0;
 }
+
+OUTPUT:
+Enter infix: a+b
+ab+
