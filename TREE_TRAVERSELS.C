@@ -47,3 +47,8 @@ int main() {
     printf("\nPostorder: "); postorder(root);
     return 0;
 }
+
+OUTPUT:
+Inorder: 2 1 3 
+Preorder: 1 2 3
+Postorder: 2 3 1
