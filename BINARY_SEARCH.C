@@ -34,3 +34,8 @@ int main() {
     printf("%d not found\n", key);
     return 0;
 }
+
+OUTPUT:
+Enter number of elements: 5
+Enter 5 sorted numbers:
+10 50 20 30 40
